@@ -1,0 +1,64 @@
+*{
+    background-image: url('https://wallpaperaccess.com/full/8638617.jpg');
+
+}
+
+#col{
+    width: 200px;
+    height: 300px;
+    background: black;
+    border-radius: 20px;
+    opacity: 0.7;
+    margin-left: 500px;
+    margin-top: 200px;
+}
+#img{
+    width: 170px;
+    height: 170px;
+    margin-top: 60px;
+    margin-left: 4px;
+    border-radius: 20px;
+
+}
+#img:hover{
+    transform: scale(1.1);
+}
+#col2{
+    width: 400px;
+    height: 300px;
+    background: black;
+    border-radius: 20px;
+    opacity: 0.7;
+    margin-left: 5px;
+    margin-top: 200px;
+}
+#inp{
+    margin-top: 100px;
+    margin-left: 20px;
+    width: 250px;
+}
+#inp2{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 250px;
+
+}
+#btn{
+    margin-top: 20px;
+    margin-left: 20px;
+    color: white;
+    background: linear-gradient(70deg,blue,rgb(0, 145, 255),blue);
+    border-radius: 7px;
+    font-weight: 20px;
+
+}
+#btn:hover{
+    border: 2px solid rgb(0, 115, 255);
+}
+#inp:hover{
+    border: 3px solid blue;
+}
+#inp2:hover{
+    border: 3px solid blue;
+
+}
